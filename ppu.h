@@ -8,7 +8,7 @@
 
 #include <cstdint>
 
-namespace Rnes {
+namespace cppnes {
 
 class Nes;
 class Sdl;
